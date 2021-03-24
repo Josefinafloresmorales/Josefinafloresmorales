@@ -1,0 +1,10 @@
+
+title: "JFM"
+description: |
+  JFM
+output_dir: "public"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article

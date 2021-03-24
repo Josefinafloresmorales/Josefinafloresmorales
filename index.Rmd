@@ -1,0 +1,19 @@
+---
+title: "Josefina Flores Morales"
+image: "floresmorales_headshot_1b.jpg"
+links:
+- label: LinkedIn
+  url: "https://www.linkedin.com/in/josefina-flores-morales-031b3b7a/"
+- label: Twitter
+  url: "https://twitter.com/josefina_fm?lang=en"
+- label: Email
+  url: "mailto:flores.morales@ucla.edu"
+- label: CV
+  url: "https://drive.google.com/file/d/1Y5kSKY3Ivx10Eq2TCKDZLMRzIZ46VIJS/view"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+ 
+I am a doctoral student of sociology at the University of California, Los Angeles. My research interests include immigration, inequality, and race/ethnicity. I love talking about bachata, salsa (all types), and social demography. 
+
