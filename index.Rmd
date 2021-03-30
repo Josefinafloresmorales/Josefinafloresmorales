@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:flores.morales@ucla.edu"
   - label: CV
-    url: "https://josefinafloresmorales.github.io/cv/"
+    url: "https://josefinafloresmorales.github.io/cv"
 output:
   postcards::jolla
 ---
