@@ -16,4 +16,4 @@ output:
   postcards::jolla
 ---
  
-I am a sociology doctoral candidate at the University of California, Los Angeles. My research interests include: social demography, race/ethnicity, immigration, and health. 
+I am a Propel Postdoctoral Fellow at Stanford University's School of Medicine (in the Department of Epidemiology & Population Health). I earned my PhD in sociology at the University of California, Los Angeles. My research interests include: social demography, race/ethnicity, immigration, and health. 
