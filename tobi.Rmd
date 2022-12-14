@@ -1,6 +1,6 @@
 ---
 title: "Josefina Flores Morales"
-image: floresmorales_headshot_1b.jpg
+image: "headshot2022.jpg"
 links:
 - label: LinkedIn
   url: "https://www.linkedin.com/in/josefina-flores-morales-031b3b7a/"
@@ -12,5 +12,5 @@ output:
   postcards::jolla: default
   site: default
 ---
- 
-I am a doctoral student of sociology at the University of California, Los Angeles. My research interests include immigration, inequality, and race/ethnicity. I love talking about bachata, salsa (all types), and social demography. 
+I am a Propel Postdoctoral Fellow at Stanford University's School of Medicine (in the Department of Epidemiology & Population Health).
+I earned my PhD in sociology at the University of California, Los Angeles. My research interests include immigration, inequality, and race/ethnicity. I love talking about bachata, salsa (all types), and social demography. 
