@@ -1,6 +1,6 @@
 ---
 title: "Josefina Flores Morales"
-image: "floresmorales_headshot_1b.jpg"
+image: "headshot2022.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/josefina-flores-morales-031b3b7a/"
